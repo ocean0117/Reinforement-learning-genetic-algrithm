@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Genetic-Algrithm/surface.html
+
+# other
+slide.md
